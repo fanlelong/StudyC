@@ -1,0 +1,3 @@
+F:/study/cstudy/cmake-build-debug/CMakeFiles/cstudy.dir
+F:/study/cstudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/study/cstudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
