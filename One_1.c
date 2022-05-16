@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int mainO1(){
     // java 万物皆对象
     // C C++ 万物皆指针 函数 对象 基本类型 结构体 都是地址
     // Linux 万物皆文件

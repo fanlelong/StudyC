@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cstudy.dir/main.c.obj"
+  "CMakeFiles/cstudy.dir/One_4.c.obj"
   "cstudy.exe"
   "cstudy.exe.manifest"
   "cstudy.lib"

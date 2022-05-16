@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/study/cstudy/main.c">
+		<Unit filename="F:/study/cstudy/One_4.c">
 			<Option target="cstudy"/>
 		</Unit>
 		<Unit filename="F:/study/cstudy/CMakeLists.txt">

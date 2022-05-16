@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int mainO2() {
     // 先定义一个别名为num_int的int类型 并 赋值为100
     int num_int = 100;
 

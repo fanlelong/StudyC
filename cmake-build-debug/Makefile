@@ -127,32 +127,32 @@ cstudy\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\build
 .PHONY : cstudy\fast
 
-main.obj: main.c.obj
+One_4.obj: One_4.c.obj
 
-.PHONY : main.obj
+.PHONY : One_4.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\main.c.obj
-.PHONY : main.c.obj
+One_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\One_4.c.obj
+.PHONY : One_4.c.obj
 
-main.i: main.c.i
+One_4.i: One_4.c.i
 
-.PHONY : main.i
+.PHONY : One_4.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\main.c.i
-.PHONY : main.c.i
+One_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\One_4.c.i
+.PHONY : One_4.c.i
 
-main.s: main.c.s
+One_4.s: One_4.c.s
 
-.PHONY : main.s
+.PHONY : One_4.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\main.c.s
-.PHONY : main.c.s
+One_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cstudy.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\cstudy.dir\One_4.c.s
+.PHONY : One_4.c.s
 
 # Help Target
 help:
@@ -163,9 +163,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cstudy
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... One_4.obj
+	@echo ... One_4.i
+	@echo ... One_4.s
 .PHONY : help
 
 

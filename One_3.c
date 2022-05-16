@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-int mainT6() {
+int mainO3() {
     // 通过指针修改值
     int i = 100;
     int *p = &i; // p存放的是i的地址

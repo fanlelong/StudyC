@@ -61,33 +61,33 @@ include CMakeFiles\cstudy.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\cstudy.dir\flags.make
 
-CMakeFiles\cstudy.dir\main.c.obj: CMakeFiles\cstudy.dir\flags.make
-CMakeFiles\cstudy.dir\main.c.obj: ..\main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\study\cstudy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/cstudy.dir/main.c.obj"
+CMakeFiles\cstudy.dir\One_4.c.obj: CMakeFiles\cstudy.dir\flags.make
+CMakeFiles\cstudy.dir\One_4.c.obj: ..\One_4.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=F:\study\cstudy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/cstudy.dir/One_4.c.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\cstudy.dir\main.c.obj /FdCMakeFiles\cstudy.dir\ /FS -c F:\study\cstudy\main.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\cstudy.dir\One_4.c.obj /FdCMakeFiles\cstudy.dir\ /FS -c F:\study\cstudy\One_4.c
 <<
 
-CMakeFiles\cstudy.dir\main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cstudy.dir/main.c.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\cstudy.dir\main.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\study\cstudy\main.c
+CMakeFiles\cstudy.dir\One_4.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/cstudy.dir/One_4.c.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\cstudy.dir\One_4.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E F:\study\cstudy\One_4.c
 <<
 
-CMakeFiles\cstudy.dir\main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cstudy.dir/main.c.s"
+CMakeFiles\cstudy.dir\One_4.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/cstudy.dir/One_4.c.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\cstudy.dir\main.c.s /c F:\study\cstudy\main.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\cstudy.dir\One_4.c.s /c F:\study\cstudy\One_4.c
 <<
 
 # Object files for target cstudy
 cstudy_OBJECTS = \
-"CMakeFiles\cstudy.dir\main.c.obj"
+"CMakeFiles\cstudy.dir\One_4.c.obj"
 
 # External object files for target cstudy
 cstudy_EXTERNAL_OBJECTS =
 
-cstudy.exe: CMakeFiles\cstudy.dir\main.c.obj
+cstudy.exe: CMakeFiles\cstudy.dir\One_4.c.obj
 cstudy.exe: CMakeFiles\cstudy.dir\build.make
 cstudy.exe: CMakeFiles\cstudy.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=F:\study\cstudy\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable cstudy.exe"
